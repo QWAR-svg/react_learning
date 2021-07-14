@@ -1,0 +1,6 @@
+.btn-group button {
+    width: 50px;
+    height: 30px;
+    background-color: green;
+    margin: 0 10px 0 10px;
+}
